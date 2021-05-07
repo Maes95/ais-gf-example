@@ -1,1 +1,9 @@
 # ais-gf-example
+
+0.1.0
+
+CAMBIO 1
+
+CAMBIO 2
+
+CAMBIO DE ÚLTIMA HORA
